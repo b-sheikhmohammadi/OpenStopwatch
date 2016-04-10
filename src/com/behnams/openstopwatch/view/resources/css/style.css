@@ -1,0 +1,11 @@
+.form-lbltime {
+	-fx-border-style: solid;
+	-fx-border-color: black;
+	-fx-border-radius: 5.0px;
+	-fx-padding: 2px;
+}
+
+@font-face {
+	font-family: "OpenSans-Regular";
+	src: url("../font/OpenSans-Bold.ttf");
+}
