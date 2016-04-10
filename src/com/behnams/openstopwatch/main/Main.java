@@ -6,9 +6,6 @@ import javafx.stage.Stage;
 import com.behnams.openstopwatch.view.controller.MainController;
 
 public class Main extends Application {
-
-	// behnam sheikhmohammadi
-	
 	public static void main(String[] args) {
 		Application.launch(args);
 	}
